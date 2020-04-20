@@ -870,7 +870,7 @@ body {
 
 /* CLIENT */
 .client { 
-	margin: 1em 0;  text-align: center;
+	margin: 1em 0;  text-align:l;
 	}
 	.client img { 
 		margin: 0 auto; width: auto; max-height: 46px; display:block; 
