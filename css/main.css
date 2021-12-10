@@ -691,22 +691,22 @@ body {
 
 /* PAGE BACKGROUNDS */
 .one-page-layout .site-main > section:nth-of-type(1) { 
-	background-color: #2E2F2D; 
+	background-color: #70b32d; 
 	}
 .one-page-layout .site-main > section:nth-of-type(2) { 
-	background-color: #ECF0F0; 
+	background-color: #eeecf0; 
 	}
 .one-page-layout .site-main > section:nth-of-type(3) { 
 	background-color: #EBF0DF; 
 	}
 .one-page-layout .site-main > section:nth-of-type(4) { 
-	background-color: #0400e0; 
+	background-color: #60d7a9; 
 	}
 .one-page-layout .site-main > section:nth-of-type(5) { 
 	background-color: #E5DCC5; 
 	}
 .one-page-layout .site-main > section:nth-of-type(6) { 
-	background-color: #D6E2E0; 
+	background-color: #2bb19a; 
 	}
 	
 /* LIGHT TEXT ON PAGES */
